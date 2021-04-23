@@ -14,3 +14,4 @@ def my_func(*args):
     return sum_max
 
 print(my_func(100, 500, 6))
+
