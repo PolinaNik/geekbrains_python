@@ -99,4 +99,3 @@ analyse = {"название": names,
            "количество": amount}
 
 print(analyse)
-© 2021 GitHub, Inc.
